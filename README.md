@@ -14,7 +14,7 @@
 <br />
 <div  align="center">
 <a  href="https://github.com/kshitij-ra/VolumeValet">
-<img  src="https://raw.githubusercontent.com/kshitij-ra/VolumeValet-Server/main/code.ico"  alt="Logo"  width="80"  height="80">
+<img  src="images/code.ico"  alt="Logo"  width="80"  height="80">
 </a>
 <h3  align="center">VolumeValet</h3>
 <p  align="center">
