@@ -14,7 +14,7 @@
 <br />
 <div  align="center">
 <a  href="https://github.com/kshitij-ra/VolumeValet">
-<img  src="https://raw.githubusercontent.com/kshitij-ra/VolumeValet-Server/main/code.ico"  alt="Logo"  width="80"  height="80">
+<img  src="images/code.ico"  alt="Logo"  width="80"  height="80">
 </a>
 <h3  align="center">VolumeValet</h3>
 <p  align="center">
@@ -80,7 +80,7 @@ Whether you're watching a movie, playing a game, or just listening to music, Vol
   
 <!-- USAGE EXAMPLES -->
 ## Usage
-  1. Download the prebuilt apk or build the app locally.
+  1. Download the [apk](https://github.com/kshitij-ra/VolumeValet/releases) or build the app locally.
   2. Start the server on PC. See [VolumeValet-Server](https://github.com/kshitij-ra/VolumeValet-Server) for details.
   3. Scan the QR or enter the address and port manually.
   4. Press the Connect button.
@@ -97,7 +97,7 @@ Before anything, be sure to have a working flutter sdk setup.If not installed, g
 ### Steps
 1. Clone the repo  
     ```sh
-    git clone https://github.com/kshitij-ra/VolumeValet.git
+    $ git clone https://github.com/kshitij-ra/VolumeValet.git
     ```
 2. Extract the file and cd to the repo folder.
 3. Run the following in the terminal
@@ -105,11 +105,9 @@ Before anything, be sure to have a working flutter sdk setup.If not installed, g
     $ flutter pub get
     ```
     ```
-    $ flutter run
+    $ flutter build apk --debug
     ```
-    ```
-    $ flutter build apk
-    ```
+4. Install the built.
 
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>  
 
